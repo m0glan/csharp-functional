@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M0glan.Functional", "M0glan.Functional\M0glan.Functional.csproj", "{2B6A3250-EE40-45A7-9D87-28F61E05E891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M0glan.Functional.Test", "M0glan.Functional.Test\M0glan.Functional.Test.csproj", "{196A72D2-A65B-4B87-9AD7-42694D2786E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6A3250-EE40-45A7-9D87-28F61E05E891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6A3250-EE40-45A7-9D87-28F61E05E891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6A3250-EE40-45A7-9D87-28F61E05E891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6A3250-EE40-45A7-9D87-28F61E05E891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196A72D2-A65B-4B87-9AD7-42694D2786E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196A72D2-A65B-4B87-9AD7-42694D2786E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196A72D2-A65B-4B87-9AD7-42694D2786E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196A72D2-A65B-4B87-9AD7-42694D2786E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
